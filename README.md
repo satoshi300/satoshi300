@@ -88,7 +88,6 @@ React • JavaScript • API
 # 📚 Currently Learning
 
 - Advanced React
-<!-- - Backend development -->
 - API architecture
 - Clean code practices
 - Modern JavaScript patterns
