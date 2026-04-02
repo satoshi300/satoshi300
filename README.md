@@ -70,7 +70,7 @@ React • JavaScript • CSS
 
 ## 🌍 Travel App
 Web application allowing users to browse travel destinations.
-* [Frontend Repository](https://satoshi300.github.io/Kanban-app/)
+* [Frontend Repository](https://github.com/satoshi300/travel-app)
 
 ### Features
 ✔ API data fetching
@@ -131,6 +131,7 @@ Tech: JavaScript • React • API
 📧 Email: michal.wasiak@hotmail.com  
 
 💼 LinkedIn: [here](https://www.linkedin.com/in/michal-wasiak-457a5331/)
+
 
 ---
 
