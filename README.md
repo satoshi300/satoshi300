@@ -130,13 +130,6 @@ HTML5 • CSS3 • Flexbox • Media Queries
 
 ---
 
-# 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi300&layout=compact&theme=holi)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi300&show_icons=true&theme=holi)
-
----
-
 # 🎯 Goals for 2026
 
 - Land my first **Junior Developer position**
