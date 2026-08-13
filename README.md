@@ -134,7 +134,6 @@ HTML5 • CSS3 • Flexbox • Media Queries
 
 - Land my first **Junior Developer position**
 - Build a strong **GitHub portfolio**
-- Contribute to **open-source projects**
 
 ---
 
