@@ -101,6 +101,26 @@ Tech: JavaScript • React • API
 
 ---
 
+## 📱 AppLab – Responsive Landing Page
+
+Responsive landing page promoting a mobile app, built with a mobile-first approach.
+* [Preview](https://satoshi300.github.io/task-html-and-css-rwd/)
+* [Frontend Repository](https://github.com/satoshi300/Responsive-Landing-Page)
+
+### Features
+✔ mobile-first responsive design
+
+✔ layouts for mobile, tablet and desktop
+
+✔ interactive dropdown navigation
+
+✔ pricing, testimonials and download sections
+
+**Tech:**  
+HTML5 • CSS3 • Flexbox • Media Queries
+
+---
+
 # 📚 Currently Learning
 
 - Advanced React
