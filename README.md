@@ -49,6 +49,41 @@ Currently I am working on several projects including **React applications, API i
 
 # 📂 Featured Projects
 
+## 🌍 Travel App
+Web application allowing users to browse travel destinations.
+* [Frontend Repository](https://github.com/satoshi300/travel-app)
+
+### Features
+✔ API data fetching
+
+✔ dynamic rendering
+
+✔ interactive UI
+
+✔ responsive layout
+
+**Tech:**  
+JavaScript • Fetch API • HTML • CSS
+
+---
+
+## 🌍 Mediterranean Stories Travel Blog
+Responsive travel blog about Mediterranean destinations, food and culture, with editorial content managed in Prismic.
+* [Live Demo](https://mediterranean-stories-travel-blog.vercel.app/)
+* [Frontend Repository](https://github.com/satoshi300/Mediterranean-Stories-Travel-Blog)
+
+### Features
+✔ Prismic-managed homepage, navigation and resources
+
+✔ blog post listing and individual article pages
+
+✔ responsive layouts for desktop and mobile
+
+**Tech:**  
+React • JavaScript • Prismic
+
+---
+
 ## 📌 React Kanban Board
 Task management application inspired by the Kanban workflow.
 * [Preview](https://satoshi300.github.io/Kanban-app/)
@@ -68,23 +103,6 @@ React • JavaScript • CSS
 
 ---
 
-## 🌍 Travel App
-Web application allowing users to browse travel destinations.
-* [Frontend Repository](https://github.com/satoshi300/travel-app)
-
-### Features
-✔ API data fetching
-
-✔ dynamic rendering
-
-✔ interactive UI
-
-✔ responsive layout
-
-**Tech:**  
-JavaScript • Fetch API • HTML • CSS
-
----
 
 ## 📌 Task Manager App
 
@@ -134,7 +152,7 @@ HTML5 • CSS3 • Flexbox • Media Queries
 
 - Land my first **Junior Developer position**
 - Build a strong **GitHub portfolio**
-- Improve my **React and backend development skills**
+- Improve my **React skills**
 
 ---
 
