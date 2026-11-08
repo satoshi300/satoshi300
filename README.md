@@ -10,11 +10,9 @@
 
 # 🚀 About Me
 
-I am a motivated developer currently building my skills in **JavaScript, React and modern web technologies**.
+I build projects with **JavaScript and React**, focusing on responsive interfaces, component-based UI and working with external data. My portfolio includes task management apps, an API-driven travel app, a responsive landing page and a travel blog with content managed in **Prismic**, a headless CMS.
 
-I enjoy solving problems, building applications and learning new technologies. My goal is to transition into a **Junior Front-End / Web Developer role** where I can contribute to real projects and continue improving my development skills.
-
-Currently I am working on several projects including **React applications, API integrations and JavaScript-based apps**.
+I'm looking for my first junior front-end role where I can contribute to a team and keep developing my skills through practical work.
 
 ---
 
@@ -31,6 +29,7 @@ Currently I am working on several projects including **React applications, API i
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![JSON SERVER](https://img.shields.io/badge/JSON-SERVER-oceanblue?style=for-the-badge&logo=json&logoColor=white)
+![Prismic](https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge&logo=prismic&logoColor=white)
 
 
 ## Tools
@@ -40,6 +39,7 @@ Currently I am working on several projects including **React applications, API i
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/tests-Jest-red)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -52,7 +52,7 @@ Currently I am working on several projects including **React applications, API i
 ## 📌 React Kanban Board
 Task management application inspired by the Kanban workflow.
 * [Preview](https://satoshi300.github.io/Kanban-app/)
-* [Frontend Repository](https://satoshi300.github.io/Kanban-app/)
+* [Frontend Repository](https://github.com/satoshi300/Kanban-app)
 
 ### Features
 ✔ create and manage tasks
@@ -83,6 +83,23 @@ Web application allowing users to browse travel destinations.
 
 **Tech:**  
 JavaScript • Fetch API • HTML • CSS
+
+---
+
+## 🌍 Mediterranean Stories Travel Blog
+Responsive travel blog about Mediterranean destinations, food and culture, with editorial content managed in Prismic.
+* [Live Demo](https://mediterranean-stories-travel-blog.vercel.app/)
+* [Frontend Repository](https://github.com/satoshi300/Mediterranean-Stories-Travel-Blog)
+
+### Features
+✔ Prismic-managed homepage, navigation and resources
+
+✔ blog post listing and individual article pages
+
+✔ responsive layouts for desktop and mobile
+
+**Tech:**  
+React • JavaScript • Prismic
 
 ---
 
@@ -134,6 +151,7 @@ HTML5 • CSS3 • Flexbox • Media Queries
 
 - Land my first **Junior Developer position**
 - Build a strong **GitHub portfolio**
+- Improve my **JavaScript and React skills**
 
 ---
 
